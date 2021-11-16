@@ -1,0 +1,33 @@
+{
+  "type": "itemsPOC",
+  "name": "proyecto1",
+  "responsable": "Alfonso",
+  "id": 1000,
+  "fecha": "2019-06-14",
+  "items": [{
+    "type": "itemsPOC",
+    "descripción": "Cartucho Tóner",
+    "codigo": 1,
+    "unidad": "pza",
+    "cantidad": 5
+  }, {
+    "type": "itemsPOC",
+    "descripción": "Cartucho Tinta",
+    "codigo": 2,
+    "unidad": "pza",
+    "cantidad": 5
+  }, {
+    "type": "itemsPOC",
+    "descripción": "CD",
+    "codigo": 3,
+    "unidad": "pza",
+    "cantidad": 100
+  }, {
+    "type": "itemsPOC",
+    "descripción": "Papel Bond",
+    "codigo": 4,
+    "unidad": "caja",
+    "cantidad": 50
+  }
+  ]
+}
