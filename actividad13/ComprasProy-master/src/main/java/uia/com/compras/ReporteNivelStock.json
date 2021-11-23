@@ -1,0 +1,70 @@
+{
+    "name": "Lista de Clientes",
+    "id": 0,
+    "items": [{
+            "name": "Alfonso",
+            "id": 1,
+            "type": "reporteNS",
+            "items": [{
+                    "type": "reporteNS",
+                    "name": "Debito",
+                    "id": 1000,
+                    "items": [{
+                            "type": "reporteNS",
+                            "name": "AhorroX",
+                            "id": 1
+                        }
+                    ]
+                }, {
+                    "type": "reporteNS",
+                    "name": "Credito",
+                    "id": 1001,
+                    "items": [{
+                            "type": "reporteNS",
+                            "name": "TarjetaY",
+                            "id": 4
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "type": "reporteNS",
+            "name": "Alfredo",
+            "id": 2,
+            "items": [{
+                    "type": "reporteNS",
+                    "name": "Debito",
+                    "id": 1000,
+                    "items": [{
+                            "type": "reporteNS",
+                            "name": "AhorroZ",
+                            "id": 1
+                        }, {
+                            "type": "reporteNS",
+                            "name": "ChequesW",
+                            "id": 2
+                        }, {
+                            "type": "reporteNS",
+                            "name": "InversionV",
+                            "id": 3
+                        }
+                    ]
+                }, {
+                    "type": "reporteNS",
+                    "name": "Credito",
+                    "id": 1001,
+                    "items": [{
+                            "type": "reporteNS",
+                            "name": "Tarjeta",
+                            "id": 4
+                        }, {
+                            "type": "reporteNS",
+                            "name": "Hipoteca",
+                            "id": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

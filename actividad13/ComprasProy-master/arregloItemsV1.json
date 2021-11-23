@@ -1,0 +1,41 @@
+{
+    "name": "proyecto1",
+    "responsable": "Alfonso",
+    "id": 1000,
+    "fecha": "2019-06-14",
+    "items": [{
+            "type": "reporteNS",
+            "name": "Cartucho Tóner",
+            "descripción": "Cartucho Tóner",
+            "existencia inicial": 8,
+            "existencia mínima": 10,
+            "consumo mensual": 5,
+            "pedidoProveedor": 100
+        }, {
+            "type": "reporteNS",
+            "name": "Cartucho Tinta",
+            "descripción": "Cartucho Tinta",
+            "existencia inicial": 3,
+            "existencia mínima": 5,
+            "consumo mensual": 3,
+            "pedidoProveedor": 5,
+            "items": []
+        }, {
+            "type": "reporteNS",
+            "descripción": "CD",
+            "name": "CD",
+            "existencia inicial": 400,
+            "existencia mínima": 350,
+            "consumo mensual": 50,
+            "pedidoProveedor": 200
+        }, {
+            "type": "reporteNS",
+            "descripción": "Papel Bond",
+            "name": "Papel Bond",
+            "existencia inicial": 70000,
+            "existencia mínima": 60000,
+            "consumo mensual": 58000,
+            "pedidoProveedor": 50000
+        }
+    ]
+}
